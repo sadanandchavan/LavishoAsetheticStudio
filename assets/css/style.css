@@ -898,6 +898,7 @@ section {
   font-size: 18px;
   position: relative;
   padding-bottom: 15px;
+  padding-top: 30px;
 }
 
 .services .title a {
@@ -1488,4 +1489,7 @@ section {
 
 #footer .credits a {
   color: #9eccf4;
+}
+.cust-header{
+ overflow: hidden; text-overflow: ellipsis; white-space: wrap;
 }
